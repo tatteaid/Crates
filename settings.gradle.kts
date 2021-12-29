@@ -1,3 +1,3 @@
 rootProject.name = "Crates"
-include("crate-plugin")
-include("crates-plugin")
+include("plugin")
+include("api")
